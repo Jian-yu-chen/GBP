@@ -49,4 +49,4 @@ title = {Bundle Adjustment on a Graph Processor},
 booktitle = {{Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR)}},
 year = {2020}
 }
-```
+```# GBP
